@@ -1,2 +1,2 @@
 # http-server
-dead simple HTTP server, based on a course lectured by Lyubomir Gavadinov.
+dead simple HTTP server implemented in Rust, based on a course lectured by Lyubomir Gavadinov.
